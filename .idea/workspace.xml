@@ -2,7 +2,277 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="11ccfb73-8e22-4c1a-8bbd-eea0ede6743d" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/website-course.html" afterPath="$PROJECT_DIR$/Mahasiswa/website-course.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/gedung_informatika.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/animate.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/blue.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/spinners.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/jquery.slimscroll.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/sidebar-nav.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/waves.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/forgot_password.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/register2.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mahasiswa/student_dashboard.html" afterPath="$PROJECT_DIR$/Mahasiswa/dashboard.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/app/app.css" afterPath="$PROJECT_DIR$/assets/css/app/app.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/app/charts.css" afterPath="$PROJECT_DIR$/assets/css/app/charts.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/app/colors-alerts.css" afterPath="$PROJECT_DIR$/assets/css/app/colors-alerts.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/app/colors-background.css" afterPath="$PROJECT_DIR$/assets/css/app/colors-background.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/app/colors-buttons.css" afterPath="$PROJECT_DIR$/assets/css/app/colors-buttons.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/app/colors-calendar.css" afterPath="$PROJECT_DIR$/assets/css/app/colors-calendar.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/app/colors-progress-bars.css" afterPath="$PROJECT_DIR$/assets/css/app/colors-progress-bars.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/app/colors-text.css" afterPath="$PROJECT_DIR$/assets/css/app/colors-text.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/app/essentials.css" afterPath="$PROJECT_DIR$/assets/css/app/essentials.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/app/layout.css" afterPath="$PROJECT_DIR$/assets/css/app/layout.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/app/main.css" afterPath="$PROJECT_DIR$/assets/css/app/main.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/app/maps.css" afterPath="$PROJECT_DIR$/assets/css/app/maps.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/app/material.css" afterPath="$PROJECT_DIR$/assets/css/app/material.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/app/media.css" afterPath="$PROJECT_DIR$/assets/css/app/media.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/app/messages.css" afterPath="$PROJECT_DIR$/assets/css/app/messages.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/app/navbar.css" afterPath="$PROJECT_DIR$/assets/css/app/navbar.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/app/sidebar-skins.css" afterPath="$PROJECT_DIR$/assets/css/app/sidebar-skins.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/app/sidebar.css" afterPath="$PROJECT_DIR$/assets/css/app/sidebar.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/fonts/FontAwesome.otf" afterPath="$PROJECT_DIR$/assets/css/fonts/FontAwesome.otf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/fonts/Material-Design-Iconic-Font.eot" afterPath="$PROJECT_DIR$/assets/css/fonts/Material-Design-Iconic-Font.eot" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/fonts/Material-Design-Iconic-Font.svg" afterPath="$PROJECT_DIR$/assets/css/fonts/Material-Design-Iconic-Font.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/fonts/Material-Design-Iconic-Font.ttf" afterPath="$PROJECT_DIR$/assets/css/fonts/Material-Design-Iconic-Font.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/fonts/Material-Design-Iconic-Font.woff" afterPath="$PROJECT_DIR$/assets/css/fonts/Material-Design-Iconic-Font.woff" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/fonts/fontawesome-webfont.eot" afterPath="$PROJECT_DIR$/assets/css/fonts/fontawesome-webfont.eot" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/fonts/fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/assets/css/fonts/fontawesome-webfont.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/fonts/fontawesome-webfont.ttf" afterPath="$PROJECT_DIR$/assets/css/fonts/fontawesome-webfont.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/fonts/fontawesome-webfont.woff" afterPath="$PROJECT_DIR$/assets/css/fonts/fontawesome-webfont.woff" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/fonts/fontawesome-webfont.woff2" afterPath="$PROJECT_DIR$/assets/css/fonts/fontawesome-webfont.woff2" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/fonts/glyphicons-halflings-regular.eot" afterPath="$PROJECT_DIR$/assets/css/fonts/glyphicons-halflings-regular.eot" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/fonts/glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/assets/css/fonts/glyphicons-halflings-regular.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/fonts/glyphicons-halflings-regular.ttf" afterPath="$PROJECT_DIR$/assets/css/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/fonts/glyphicons-halflings-regular.woff" afterPath="$PROJECT_DIR$/assets/css/fonts/glyphicons-halflings-regular.woff" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/fonts/glyphicons-halflings-regular.woff2" afterPath="$PROJECT_DIR$/assets/css/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/fonts/picto-foundry-arrows.eot" afterPath="$PROJECT_DIR$/assets/css/fonts/picto-foundry-arrows.eot" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/fonts/picto-foundry-arrows.svg" afterPath="$PROJECT_DIR$/assets/css/fonts/picto-foundry-arrows.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/fonts/picto-foundry-arrows.ttf" afterPath="$PROJECT_DIR$/assets/css/fonts/picto-foundry-arrows.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/fonts/picto-foundry-arrows.woff" afterPath="$PROJECT_DIR$/assets/css/fonts/picto-foundry-arrows.woff" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/fonts/picto-foundry-clothing.eot" afterPath="$PROJECT_DIR$/assets/css/fonts/picto-foundry-clothing.eot" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/fonts/picto-foundry-clothing.svg" afterPath="$PROJECT_DIR$/assets/css/fonts/picto-foundry-clothing.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/fonts/picto-foundry-clothing.ttf" afterPath="$PROJECT_DIR$/assets/css/fonts/picto-foundry-clothing.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/fonts/picto-foundry-clothing.woff" afterPath="$PROJECT_DIR$/assets/css/fonts/picto-foundry-clothing.woff" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/fonts/picto-foundry-emotions.eot" afterPath="$PROJECT_DIR$/assets/css/fonts/picto-foundry-emotions.eot" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/fonts/picto-foundry-emotions.svg" afterPath="$PROJECT_DIR$/assets/css/fonts/picto-foundry-emotions.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/fonts/picto-foundry-emotions.ttf" afterPath="$PROJECT_DIR$/assets/css/fonts/picto-foundry-emotions.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/fonts/picto-foundry-emotions.woff" afterPath="$PROJECT_DIR$/assets/css/fonts/picto-foundry-emotions.woff" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/fonts/picto-foundry-food.eot" afterPath="$PROJECT_DIR$/assets/css/fonts/picto-foundry-food.eot" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/fonts/picto-foundry-food.svg" afterPath="$PROJECT_DIR$/assets/css/fonts/picto-foundry-food.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/fonts/picto-foundry-food.ttf" afterPath="$PROJECT_DIR$/assets/css/fonts/picto-foundry-food.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/fonts/picto-foundry-food.woff" afterPath="$PROJECT_DIR$/assets/css/fonts/picto-foundry-food.woff" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/fonts/picto-foundry-general.eot" afterPath="$PROJECT_DIR$/assets/css/fonts/picto-foundry-general.eot" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/fonts/picto-foundry-general.svg" afterPath="$PROJECT_DIR$/assets/css/fonts/picto-foundry-general.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/fonts/picto-foundry-general.ttf" afterPath="$PROJECT_DIR$/assets/css/fonts/picto-foundry-general.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/fonts/picto-foundry-general.woff" afterPath="$PROJECT_DIR$/assets/css/fonts/picto-foundry-general.woff" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/fonts/picto-foundry-household.eot" afterPath="$PROJECT_DIR$/assets/css/fonts/picto-foundry-household.eot" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/fonts/picto-foundry-household.svg" afterPath="$PROJECT_DIR$/assets/css/fonts/picto-foundry-household.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/fonts/picto-foundry-household.ttf" afterPath="$PROJECT_DIR$/assets/css/fonts/picto-foundry-household.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/fonts/picto-foundry-household.woff" afterPath="$PROJECT_DIR$/assets/css/fonts/picto-foundry-household.woff" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/fonts/picto-foundry-medical-science.eot" afterPath="$PROJECT_DIR$/assets/css/fonts/picto-foundry-medical-science.eot" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/fonts/picto-foundry-medical-science.svg" afterPath="$PROJECT_DIR$/assets/css/fonts/picto-foundry-medical-science.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/fonts/picto-foundry-medical-science.ttf" afterPath="$PROJECT_DIR$/assets/css/fonts/picto-foundry-medical-science.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/fonts/picto-foundry-medical-science.woff" afterPath="$PROJECT_DIR$/assets/css/fonts/picto-foundry-medical-science.woff" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/fonts/picto-foundry-multimedia.eot" afterPath="$PROJECT_DIR$/assets/css/fonts/picto-foundry-multimedia.eot" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/fonts/picto-foundry-multimedia.svg" afterPath="$PROJECT_DIR$/assets/css/fonts/picto-foundry-multimedia.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/fonts/picto-foundry-multimedia.ttf" afterPath="$PROJECT_DIR$/assets/css/fonts/picto-foundry-multimedia.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/fonts/picto-foundry-multimedia.woff" afterPath="$PROJECT_DIR$/assets/css/fonts/picto-foundry-multimedia.woff" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/fonts/picto-foundry-nature.eot" afterPath="$PROJECT_DIR$/assets/css/fonts/picto-foundry-nature.eot" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/fonts/picto-foundry-nature.svg" afterPath="$PROJECT_DIR$/assets/css/fonts/picto-foundry-nature.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/fonts/picto-foundry-nature.ttf" afterPath="$PROJECT_DIR$/assets/css/fonts/picto-foundry-nature.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/fonts/picto-foundry-nature.woff" afterPath="$PROJECT_DIR$/assets/css/fonts/picto-foundry-nature.woff" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/fonts/picto-foundry-shopping-finance.eot" afterPath="$PROJECT_DIR$/assets/css/fonts/picto-foundry-shopping-finance.eot" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/fonts/picto-foundry-shopping-finance.svg" afterPath="$PROJECT_DIR$/assets/css/fonts/picto-foundry-shopping-finance.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/fonts/picto-foundry-shopping-finance.ttf" afterPath="$PROJECT_DIR$/assets/css/fonts/picto-foundry-shopping-finance.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/fonts/picto-foundry-shopping-finance.woff" afterPath="$PROJECT_DIR$/assets/css/fonts/picto-foundry-shopping-finance.woff" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/fonts/picto-foundry-sports.eot" afterPath="$PROJECT_DIR$/assets/css/fonts/picto-foundry-sports.eot" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/fonts/picto-foundry-sports.svg" afterPath="$PROJECT_DIR$/assets/css/fonts/picto-foundry-sports.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/fonts/picto-foundry-sports.ttf" afterPath="$PROJECT_DIR$/assets/css/fonts/picto-foundry-sports.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/fonts/picto-foundry-sports.woff" afterPath="$PROJECT_DIR$/assets/css/fonts/picto-foundry-sports.woff" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/fonts/picto-foundry-vehicle-navigation.eot" afterPath="$PROJECT_DIR$/assets/css/fonts/picto-foundry-vehicle-navigation.eot" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/fonts/picto-foundry-vehicle-navigation.svg" afterPath="$PROJECT_DIR$/assets/css/fonts/picto-foundry-vehicle-navigation.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/fonts/picto-foundry-vehicle-navigation.ttf" afterPath="$PROJECT_DIR$/assets/css/fonts/picto-foundry-vehicle-navigation.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/fonts/picto-foundry-vehicle-navigation.woff" afterPath="$PROJECT_DIR$/assets/css/fonts/picto-foundry-vehicle-navigation.woff" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/fonts/picto-foundry-weather.eot" afterPath="$PROJECT_DIR$/assets/css/fonts/picto-foundry-weather.eot" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/fonts/picto-foundry-weather.svg" afterPath="$PROJECT_DIR$/assets/css/fonts/picto-foundry-weather.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/fonts/picto-foundry-weather.ttf" afterPath="$PROJECT_DIR$/assets/css/fonts/picto-foundry-weather.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/fonts/picto-foundry-weather.woff" afterPath="$PROJECT_DIR$/assets/css/fonts/picto-foundry-weather.woff" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/vendor/ajax-loader.gif" afterPath="$PROJECT_DIR$/assets/css/vendor/ajax-loader.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/vendor/all.css" afterPath="$PROJECT_DIR$/assets/css/vendor/all.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/vendor/bootstrap-slider.css" afterPath="$PROJECT_DIR$/assets/css/vendor/bootstrap-slider.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/vendor/bootstrap.css" afterPath="$PROJECT_DIR$/assets/css/vendor/bootstrap.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/vendor/datepicker3.css" afterPath="$PROJECT_DIR$/assets/css/vendor/datepicker3.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/vendor/daterangepicker-bs3.css" afterPath="$PROJECT_DIR$/assets/css/vendor/daterangepicker-bs3.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/vendor/font-awesome.css" afterPath="$PROJECT_DIR$/assets/css/vendor/font-awesome.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/vendor/fonts/slick.eot" afterPath="$PROJECT_DIR$/assets/css/vendor/fonts/slick.eot" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/vendor/fonts/slick.svg" afterPath="$PROJECT_DIR$/assets/css/vendor/fonts/slick.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/vendor/fonts/slick.ttf" afterPath="$PROJECT_DIR$/assets/css/vendor/fonts/slick.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/vendor/fonts/slick.woff" afterPath="$PROJECT_DIR$/assets/css/vendor/fonts/slick.woff" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/vendor/jquery.bootstrap-touchspin.css" afterPath="$PROJECT_DIR$/assets/css/vendor/jquery.bootstrap-touchspin.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/vendor/jquery.countdown.css" afterPath="$PROJECT_DIR$/assets/css/vendor/jquery.countdown.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/vendor/jquery.minicolors.css" afterPath="$PROJECT_DIR$/assets/css/vendor/jquery.minicolors.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/vendor/material-design-iconic-font.css" afterPath="$PROJECT_DIR$/assets/css/vendor/material-design-iconic-font.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/vendor/owl.carousel.css" afterPath="$PROJECT_DIR$/assets/css/vendor/owl.carousel.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/vendor/picto.css" afterPath="$PROJECT_DIR$/assets/css/vendor/picto.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/vendor/railscasts.css" afterPath="$PROJECT_DIR$/assets/css/vendor/railscasts.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/vendor/select2-spinner.gif" afterPath="$PROJECT_DIR$/assets/css/vendor/select2-spinner.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/vendor/select2.css" afterPath="$PROJECT_DIR$/assets/css/vendor/select2.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/vendor/select2.png" afterPath="$PROJECT_DIR$/assets/css/vendor/select2.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/vendor/select2x2.png" afterPath="$PROJECT_DIR$/assets/css/vendor/select2x2.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/vendor/slick.css" afterPath="$PROJECT_DIR$/assets/css/vendor/slick.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/flags/Flag_of_France.svg" afterPath="$PROJECT_DIR$/assets/images/flags/Flag_of_France.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/flags/Flag_of_Germany.svg" afterPath="$PROJECT_DIR$/assets/images/flags/Flag_of_Germany.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/flags/Flag_of_Poland.svg" afterPath="$PROJECT_DIR$/assets/images/flags/Flag_of_Poland.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/flags/Flag_of_Romania.svg" afterPath="$PROJECT_DIR$/assets/images/flags/Flag_of_Romania.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/flags/Flag_of_the_United_States.svg" afterPath="$PROJECT_DIR$/assets/images/flags/Flag_of_the_United_States.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/food1-full.jpg" afterPath="$PROJECT_DIR$/assets/images/food1-full.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/food1-wide.jpg" afterPath="$PROJECT_DIR$/assets/images/food1-wide.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/food1.jpg" afterPath="$PROJECT_DIR$/assets/images/food1.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/learning-logo.png" afterPath="$PROJECT_DIR$/assets/images/learning-logo.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/logoabizy.png" afterPath="$PROJECT_DIR$/assets/images/logoabizy.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/markers/building-01.png" afterPath="$PROJECT_DIR$/assets/images/markers/building-01.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/markers/building-02.png" afterPath="$PROJECT_DIR$/assets/images/markers/building-02.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/markers/building-03.png" afterPath="$PROJECT_DIR$/assets/images/markers/building-03.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/markers/building-04.png" afterPath="$PROJECT_DIR$/assets/images/markers/building-04.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/markers/building-05.png" afterPath="$PROJECT_DIR$/assets/images/markers/building-05.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/markers/building-06.png" afterPath="$PROJECT_DIR$/assets/images/markers/building-06.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/markers/building-07.png" afterPath="$PROJECT_DIR$/assets/images/markers/building-07.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/markers/building-08.png" afterPath="$PROJECT_DIR$/assets/images/markers/building-08.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/markers/building-09.png" afterPath="$PROJECT_DIR$/assets/images/markers/building-09.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/markers/building-10.png" afterPath="$PROJECT_DIR$/assets/images/markers/building-10.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/people/110/child-1.jpg" afterPath="$PROJECT_DIR$/assets/images/people/110/child-1.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/people/110/guy-1.jpg" afterPath="$PROJECT_DIR$/assets/images/people/110/guy-1.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/people/110/guy-2.jpg" afterPath="$PROJECT_DIR$/assets/images/people/110/guy-2.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/people/110/guy-3.jpg" afterPath="$PROJECT_DIR$/assets/images/people/110/guy-3.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/people/110/guy-4.jpg" afterPath="$PROJECT_DIR$/assets/images/people/110/guy-4.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/people/110/guy-5.jpg" afterPath="$PROJECT_DIR$/assets/images/people/110/guy-5.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/people/110/guy-6.jpg" afterPath="$PROJECT_DIR$/assets/images/people/110/guy-6.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/people/110/guy-7.jpg" afterPath="$PROJECT_DIR$/assets/images/people/110/guy-7.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/people/110/guy-8.jpg" afterPath="$PROJECT_DIR$/assets/images/people/110/guy-8.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/people/110/guy-9.jpg" afterPath="$PROJECT_DIR$/assets/images/people/110/guy-9.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/people/110/woman-1.jpg" afterPath="$PROJECT_DIR$/assets/images/people/110/woman-1.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/people/110/woman-10.jpg" afterPath="$PROJECT_DIR$/assets/images/people/110/woman-10.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/people/110/woman-2.jpg" afterPath="$PROJECT_DIR$/assets/images/people/110/woman-2.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/people/110/woman-3.jpg" afterPath="$PROJECT_DIR$/assets/images/people/110/woman-3.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/people/110/woman-4.jpg" afterPath="$PROJECT_DIR$/assets/images/people/110/woman-4.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/people/110/woman-5.jpg" afterPath="$PROJECT_DIR$/assets/images/people/110/woman-5.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/people/110/woman-6.jpg" afterPath="$PROJECT_DIR$/assets/images/people/110/woman-6.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/people/110/woman-7.jpg" afterPath="$PROJECT_DIR$/assets/images/people/110/woman-7.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/people/110/woman-8.jpg" afterPath="$PROJECT_DIR$/assets/images/people/110/woman-8.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/people/110/woman-9.jpg" afterPath="$PROJECT_DIR$/assets/images/people/110/woman-9.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/people/50/child-1.jpg" afterPath="$PROJECT_DIR$/assets/images/people/50/child-1.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/people/50/guy-1.jpg" afterPath="$PROJECT_DIR$/assets/images/people/50/guy-1.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/people/50/guy-2.jpg" afterPath="$PROJECT_DIR$/assets/images/people/50/guy-2.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/people/50/guy-3.jpg" afterPath="$PROJECT_DIR$/assets/images/people/50/guy-3.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/people/50/guy-4.jpg" afterPath="$PROJECT_DIR$/assets/images/people/50/guy-4.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/people/50/guy-5.jpg" afterPath="$PROJECT_DIR$/assets/images/people/50/guy-5.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/people/50/guy-6.jpg" afterPath="$PROJECT_DIR$/assets/images/people/50/guy-6.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/people/50/guy-7.jpg" afterPath="$PROJECT_DIR$/assets/images/people/50/guy-7.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/people/50/guy-8.jpg" afterPath="$PROJECT_DIR$/assets/images/people/50/guy-8.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/people/50/guy-9.jpg" afterPath="$PROJECT_DIR$/assets/images/people/50/guy-9.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/people/50/woman-1.jpg" afterPath="$PROJECT_DIR$/assets/images/people/50/woman-1.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/people/50/woman-10.jpg" afterPath="$PROJECT_DIR$/assets/images/people/50/woman-10.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/people/50/woman-2.jpg" afterPath="$PROJECT_DIR$/assets/images/people/50/woman-2.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/people/50/woman-3.jpg" afterPath="$PROJECT_DIR$/assets/images/people/50/woman-3.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/people/50/woman-4.jpg" afterPath="$PROJECT_DIR$/assets/images/people/50/woman-4.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/people/50/woman-5.jpg" afterPath="$PROJECT_DIR$/assets/images/people/50/woman-5.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/people/50/woman-6.jpg" afterPath="$PROJECT_DIR$/assets/images/people/50/woman-6.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/people/50/woman-7.jpg" afterPath="$PROJECT_DIR$/assets/images/people/50/woman-7.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/people/50/woman-8.jpg" afterPath="$PROJECT_DIR$/assets/images/people/50/woman-8.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/people/50/woman-9.jpg" afterPath="$PROJECT_DIR$/assets/images/people/50/woman-9.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/photodune-4161018-group-of-students-m.jpg" afterPath="$PROJECT_DIR$/assets/images/photodune-4161018-group-of-students-m.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/photodune-6745579-modern-creative-man-relaxing-on-workspace-m.jpg" afterPath="$PROJECT_DIR$/assets/images/photodune-6745579-modern-creative-man-relaxing-on-workspace-m.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/photodune-6745585-modern-creative-workspace-m.jpg" afterPath="$PROJECT_DIR$/assets/images/photodune-6745585-modern-creative-workspace-m.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/place1-full.jpg" afterPath="$PROJECT_DIR$/assets/images/place1-full.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/place1-wide.jpg" afterPath="$PROJECT_DIR$/assets/images/place1-wide.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/place1.jpg" afterPath="$PROJECT_DIR$/assets/images/place1.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/place2-full.jpg" afterPath="$PROJECT_DIR$/assets/images/place2-full.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/place2-wide.jpg" afterPath="$PROJECT_DIR$/assets/images/place2-wide.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/place2.jpg" afterPath="$PROJECT_DIR$/assets/images/place2.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/place3-full.jpg" afterPath="$PROJECT_DIR$/assets/images/place3-full.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/place3-wide.jpg" afterPath="$PROJECT_DIR$/assets/images/place3-wide.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/place3.jpg" afterPath="$PROJECT_DIR$/assets/images/place3.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/profile-cover.jpg" afterPath="$PROJECT_DIR$/assets/images/profile-cover.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/app/all.js" afterPath="$PROJECT_DIR$/assets/js/app/all.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/app/app.js" afterPath="$PROJECT_DIR$/assets/js/app/app.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/app/charts.js" afterPath="$PROJECT_DIR$/assets/js/app/charts.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/app/essentials.js" afterPath="$PROJECT_DIR$/assets/js/app/essentials.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/app/layout.js" afterPath="$PROJECT_DIR$/assets/js/app/layout.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/app/main.js" afterPath="$PROJECT_DIR$/assets/js/app/main.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/app/maps.js" afterPath="$PROJECT_DIR$/assets/js/app/maps.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/app/material.js" afterPath="$PROJECT_DIR$/assets/js/app/material.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/app/media.js" afterPath="$PROJECT_DIR$/assets/js/app/media.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/app/messages.js" afterPath="$PROJECT_DIR$/assets/js/app/messages.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/app/sidebar.js" afterPath="$PROJECT_DIR$/assets/js/app/sidebar.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/data/google_maps/markers.json" afterPath="$PROJECT_DIR$/assets/js/data/google_maps/markers.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/vendor/all.js" afterPath="$PROJECT_DIR$/assets/js/vendor/all.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/vendor/charts/flot/all.js" afterPath="$PROJECT_DIR$/assets/js/vendor/charts/flot/all.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/vendor/charts/flot/jquery.flot.js" afterPath="$PROJECT_DIR$/assets/js/vendor/charts/flot/jquery.flot.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/vendor/charts/flot/jquery.flot.orderBars.js" afterPath="$PROJECT_DIR$/assets/js/vendor/charts/flot/jquery.flot.orderBars.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/vendor/charts/flot/jquery.flot.pie.js" afterPath="$PROJECT_DIR$/assets/js/vendor/charts/flot/jquery.flot.pie.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/vendor/charts/flot/jquery.flot.resize.js" afterPath="$PROJECT_DIR$/assets/js/vendor/charts/flot/jquery.flot.resize.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/vendor/charts/flot/jquery.flot.stack.js" afterPath="$PROJECT_DIR$/assets/js/vendor/charts/flot/jquery.flot.stack.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/vendor/core/all.js" afterPath="$PROJECT_DIR$/assets/js/vendor/core/all.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/vendor/core/bootstrap.js" afterPath="$PROJECT_DIR$/assets/js/vendor/core/bootstrap.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/vendor/core/breakpoints.js" afterPath="$PROJECT_DIR$/assets/js/vendor/core/breakpoints.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/vendor/core/handlebars.js" afterPath="$PROJECT_DIR$/assets/js/vendor/core/handlebars.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/vendor/core/holder.js" afterPath="$PROJECT_DIR$/assets/js/vendor/core/holder.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/vendor/core/isotope.pkgd.js" afterPath="$PROJECT_DIR$/assets/js/vendor/core/isotope.pkgd.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/vendor/core/jquery-ui.custom.js" afterPath="$PROJECT_DIR$/assets/js/vendor/core/jquery-ui.custom.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/vendor/core/jquery-ui/core.js" afterPath="$PROJECT_DIR$/assets/js/vendor/core/jquery-ui/core.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/vendor/core/jquery-ui/draggable.js" afterPath="$PROJECT_DIR$/assets/js/vendor/core/jquery-ui/draggable.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/vendor/core/jquery-ui/droppable.js" afterPath="$PROJECT_DIR$/assets/js/vendor/core/jquery-ui/droppable.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/vendor/core/jquery-ui/mouse.js" afterPath="$PROJECT_DIR$/assets/js/vendor/core/jquery-ui/mouse.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/vendor/core/jquery-ui/position.js" afterPath="$PROJECT_DIR$/assets/js/vendor/core/jquery-ui/position.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/vendor/core/jquery-ui/resizable.js" afterPath="$PROJECT_DIR$/assets/js/vendor/core/jquery-ui/resizable.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/vendor/core/jquery-ui/selectable.js" afterPath="$PROJECT_DIR$/assets/js/vendor/core/jquery-ui/selectable.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/vendor/core/jquery-ui/sortable.js" afterPath="$PROJECT_DIR$/assets/js/vendor/core/jquery-ui/sortable.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/vendor/core/jquery-ui/widget.js" afterPath="$PROJECT_DIR$/assets/js/vendor/core/jquery-ui/widget.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/vendor/core/jquery.cookie.js" afterPath="$PROJECT_DIR$/assets/js/vendor/core/jquery.cookie.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/vendor/core/jquery.debouncedresize.js" afterPath="$PROJECT_DIR$/assets/js/vendor/core/jquery.debouncedresize.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/vendor/core/jquery.grid-a-licious.js" afterPath="$PROJECT_DIR$/assets/js/vendor/core/jquery.grid-a-licious.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/vendor/core/jquery.hotkeys.js" afterPath="$PROJECT_DIR$/assets/js/vendor/core/jquery.hotkeys.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/vendor/core/jquery.js" afterPath="$PROJECT_DIR$/assets/js/vendor/core/jquery.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/vendor/core/jquery.nicescroll.js" afterPath="$PROJECT_DIR$/assets/js/vendor/core/jquery.nicescroll.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/vendor/core/load_image.js" afterPath="$PROJECT_DIR$/assets/js/vendor/core/load_image.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/vendor/core/modernizr.js" afterPath="$PROJECT_DIR$/assets/js/vendor/core/modernizr.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/vendor/core/packery-mode.pkgd.js" afterPath="$PROJECT_DIR$/assets/js/vendor/core/packery-mode.pkgd.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/vendor/core/velocity.js" afterPath="$PROJECT_DIR$/assets/js/vendor/core/velocity.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/vendor/countdown/all.js" afterPath="$PROJECT_DIR$/assets/js/vendor/countdown/all.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/vendor/countdown/jquery.countdown.js" afterPath="$PROJECT_DIR$/assets/js/vendor/countdown/jquery.countdown.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/vendor/countdown/jquery.plugin.js" afterPath="$PROJECT_DIR$/assets/js/vendor/countdown/jquery.plugin.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/vendor/forms/all.js" afterPath="$PROJECT_DIR$/assets/js/vendor/forms/all.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/vendor/forms/bootstrap-datepicker.js" afterPath="$PROJECT_DIR$/assets/js/vendor/forms/bootstrap-datepicker.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/vendor/forms/bootstrap-select.js" afterPath="$PROJECT_DIR$/assets/js/vendor/forms/bootstrap-select.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/vendor/forms/bootstrap-slider.js" afterPath="$PROJECT_DIR$/assets/js/vendor/forms/bootstrap-slider.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/vendor/forms/bootstrap-switch.js" afterPath="$PROJECT_DIR$/assets/js/vendor/forms/bootstrap-switch.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/vendor/forms/daterangepicker.js" afterPath="$PROJECT_DIR$/assets/js/vendor/forms/daterangepicker.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/vendor/forms/jquery.bootstrap-touchspin.js" afterPath="$PROJECT_DIR$/assets/js/vendor/forms/jquery.bootstrap-touchspin.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/vendor/forms/jquery.minicolors.js" afterPath="$PROJECT_DIR$/assets/js/vendor/forms/jquery.minicolors.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/vendor/forms/moment.min.js" afterPath="$PROJECT_DIR$/assets/js/vendor/forms/moment.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/vendor/forms/select2.js" afterPath="$PROJECT_DIR$/assets/js/vendor/forms/select2.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/vendor/forms/summernote.js" afterPath="$PROJECT_DIR$/assets/js/vendor/forms/summernote.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/vendor/maps/google/jquery-ui-map/addons/infobox.js" afterPath="$PROJECT_DIR$/assets/js/vendor/maps/google/jquery-ui-map/addons/infobox.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/vendor/maps/google/jquery-ui-map/addons/infobox_packed.js" afterPath="$PROJECT_DIR$/assets/js/vendor/maps/google/jquery-ui-map/addons/infobox_packed.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/vendor/maps/google/jquery-ui-map/addons/markerclusterer.min.js" afterPath="$PROJECT_DIR$/assets/js/vendor/maps/google/jquery-ui-map/addons/markerclusterer.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/vendor/maps/google/jquery-ui-map/ui/jquery.ui.map.extensions.js" afterPath="$PROJECT_DIR$/assets/js/vendor/maps/google/jquery-ui-map/ui/jquery.ui.map.extensions.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/vendor/maps/google/jquery-ui-map/ui/jquery.ui.map.js" afterPath="$PROJECT_DIR$/assets/js/vendor/maps/google/jquery-ui-map/ui/jquery.ui.map.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/vendor/maps/google/jquery-ui-map/ui/jquery.ui.map.microdata.js" afterPath="$PROJECT_DIR$/assets/js/vendor/maps/google/jquery-ui-map/ui/jquery.ui.map.microdata.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/vendor/maps/google/jquery-ui-map/ui/jquery.ui.map.microformat.js" afterPath="$PROJECT_DIR$/assets/js/vendor/maps/google/jquery-ui-map/ui/jquery.ui.map.microformat.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/vendor/maps/google/jquery-ui-map/ui/jquery.ui.map.overlays.js" afterPath="$PROJECT_DIR$/assets/js/vendor/maps/google/jquery-ui-map/ui/jquery.ui.map.overlays.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/vendor/maps/google/jquery-ui-map/ui/jquery.ui.map.rdfa.js" afterPath="$PROJECT_DIR$/assets/js/vendor/maps/google/jquery-ui-map/ui/jquery.ui.map.rdfa.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/vendor/maps/google/jquery-ui-map/ui/jquery.ui.map.services.js" afterPath="$PROJECT_DIR$/assets/js/vendor/maps/google/jquery-ui-map/ui/jquery.ui.map.services.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/vendor/media/owl.carousel.js" afterPath="$PROJECT_DIR$/assets/js/vendor/media/owl.carousel.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/vendor/media/slick.js" afterPath="$PROJECT_DIR$/assets/js/vendor/media/slick.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/vendor/nestable/jquery.nestable.js" afterPath="$PROJECT_DIR$/assets/js/vendor/nestable/jquery.nestable.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/vendor/tables/all.js" afterPath="$PROJECT_DIR$/assets/js/vendor/tables/all.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/vendor/tables/dataTables.bootstrap.js" afterPath="$PROJECT_DIR$/assets/js/vendor/tables/dataTables.bootstrap.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/vendor/tables/jquery.dataTables.js" afterPath="$PROJECT_DIR$/assets/js/vendor/tables/jquery.dataTables.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/website-directory-grid.html" afterPath="$PROJECT_DIR$/home_quiz.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Dosen/website-instructor-billing.html" afterPath="$PROJECT_DIR$/Dosen/website-instructor-billing.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Dosen/website-instructor-course-edit-course.html" afterPath="$PROJECT_DIR$/Dosen/website-instructor-course-edit-course.html" />
@@ -15,6 +285,9 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Dosen/website-instructor-profile-public.html" afterPath="$PROJECT_DIR$/Dosen/website-instructor-profile-public.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Dosen/website-instructor-profile.html" afterPath="$PROJECT_DIR$/Dosen/website-instructor-profile.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Dosen/website-instructor-statement.html" afterPath="$PROJECT_DIR$/Dosen/website-instructor-statement.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Mahasiswa/forum_detail.html" afterPath="$PROJECT_DIR$/Mahasiswa/forum_detail.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Mahasiswa/forum_home.html" afterPath="$PROJECT_DIR$/Mahasiswa/forum_home.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Mahasiswa/forum_kategori.html" afterPath="$PROJECT_DIR$/Mahasiswa/forum_kategori.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Mahasiswa/forum_thread.html" afterPath="$PROJECT_DIR$/Mahasiswa/forum_thread.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Mahasiswa/forums_topic.html" afterPath="$PROJECT_DIR$/Mahasiswa/forums_topic.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Mahasiswa/materi_home.html" afterPath="$PROJECT_DIR$/Mahasiswa/materi_home.html" />
@@ -22,17 +295,18 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Mahasiswa/student-profile.html" afterPath="$PROJECT_DIR$/Mahasiswa/student-profile.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Mahasiswa/student_billing.html" afterPath="$PROJECT_DIR$/Mahasiswa/student_billing.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Mahasiswa/student_courses.html" afterPath="$PROJECT_DIR$/Mahasiswa/student_courses.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Mahasiswa/student_dashboard.html" afterPath="$PROJECT_DIR$/Mahasiswa/student_dashboard.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Mahasiswa/student_messages.html" afterPath="$PROJECT_DIR$/Mahasiswa/student_messages.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Mahasiswa/take-course.html" afterPath="$PROJECT_DIR$/Mahasiswa/take-course.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Mahasiswa/website-course.html" afterPath="$PROJECT_DIR$/Mahasiswa/website-course.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/login.html" afterPath="$PROJECT_DIR$/login.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pricing.html" afterPath="$PROJECT_DIR$/pricing.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sign-up.html" afterPath="$PROJECT_DIR$/sign-up.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/survey.html" afterPath="$PROJECT_DIR$/survey.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tutors.html" afterPath="$PROJECT_DIR$/tutors.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/website-blog-post.html" afterPath="$PROJECT_DIR$/website-blog-post.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/website-blog.html" afterPath="$PROJECT_DIR$/website-blog.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/website-contact.html" afterPath="$PROJECT_DIR$/website-contact.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/website-directory-grid.html" afterPath="$PROJECT_DIR$/website-directory-grid.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -44,11 +318,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="quiz.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Mahasiswa/quiz.html">
+      <file leaf-file-name="login.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/login.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1105">
-              <caret line="65" column="47" lean-forward="false" selection-start-line="65" selection-start-column="47" selection-end-line="65" selection-end-column="47" />
+            <state relative-caret-position="255">
+              <caret line="15" column="23" lean-forward="true" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -57,39 +331,70 @@
       <file leaf-file-name="forum_home.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Mahasiswa/forum_home.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2091">
-              <caret line="123" column="6" lean-forward="false" selection-start-line="48" selection-start-column="0" selection-end-line="123" selection-end-column="6" />
+            <state relative-caret-position="325">
+              <caret line="333" column="22" lean-forward="true" selection-start-line="303" selection-start-column="11" selection-end-line="333" selection-end-column="22" />
               <folding>
-                <element signature="e#7171#7177#0" expanded="true" />
-                <element signature="e#8516#8522#0" expanded="true" />
-                <element signature="e#9832#9838#0" expanded="true" />
-                <element signature="e#11961#11967#0" expanded="true" />
-                <element signature="e#13329#13335#0" expanded="true" />
-                <element signature="e#14666#14672#0" expanded="true" />
+                <element signature="e#7176#7182#0" expanded="true" />
+                <element signature="e#8521#8527#0" expanded="true" />
+                <element signature="e#9837#9843#0" expanded="true" />
+                <element signature="e#11966#11972#0" expanded="true" />
+                <element signature="e#13334#13340#0" expanded="true" />
+                <element signature="e#14671#14677#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="materi_home.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Mahasiswa/materi_home.html">
+      <file leaf-file-name="home_quiz.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/home_quiz.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="6531">
-              <caret line="449" column="0" lean-forward="true" selection-start-line="449" selection-start-column="0" selection-end-line="449" selection-end-column="0" />
+            <state relative-caret-position="-382">
+              <caret line="496" column="30" lean-forward="false" selection-start-line="496" selection-start-column="30" selection-end-line="496" selection-end-column="30" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="forum_detail.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Mahasiswa/forum_detail.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="279" column="15" lean-forward="true" selection-start-line="276" selection-start-column="2" selection-end-line="279" selection-end-column="15" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dashboard.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Mahasiswa/dashboard.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="111" column="14" lean-forward="true" selection-start-line="111" selection-start-column="14" selection-end-line="111" selection-end-column="69" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#li#0;n#ul#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#li#1;n#ul#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#li#2;n#ul#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#13497#13503#0" expanded="true" />
+                <element signature="e#14758#14764#0" expanded="true" />
+                <element signature="e#16018#16024#0" expanded="true" />
+                <element signature="e#17277#17283#0" expanded="true" />
+                <element signature="e#20572#20578#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>learning</find>
-      <find>Bill</find>
-      <find>support</find>
-      <find>pos ole</find>
-      <find>footer</find>
       <find>font</find>
       <find>rep</find>
       <find>sea</find>
@@ -104,11 +409,28 @@
       <find>wordp</find>
       <find>word</find>
       <find>adrian</find>
+      <find>quiz</find>
+      <find>go to</find>
+      <find>pengha</find>
+      <find>Topic:</find>
+      <find>para</find>
+      <find>flot</find>
+      <find>student</find>
+      <find>dani</find>
+      <find>don'</find>
+      <find>java</find>
+      <find>login-register.jpg</find>
+      <find>lock</find>
+      <find>index</find>
+      <find>Good</find>
+      <find>logo</find>
+      <find>catego</find>
     </findStrings>
     <replaceStrings>
       <replace>lalu</replace>
       <replace>Buat Topik</replace>
       <replace>What is Lorem Ipsum?</replace>
+      <replace>Oleh</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -119,11 +441,19 @@
       <list>
         <option value="$PROJECT_DIR$/Mahasiswa/website-student-dashboard.html" />
         <option value="$PROJECT_DIR$/Mahasiswa/student_dashboard.html" />
-        <option value="$PROJECT_DIR$/Mahasiswa/forum_detail.html" />
-        <option value="$PROJECT_DIR$/Mahasiswa/forum_kategori.html" />
         <option value="$PROJECT_DIR$/Mahasiswa/website-directory-list.html" />
-        <option value="$PROJECT_DIR$/Mahasiswa/forum_home.html" />
         <option value="$PROJECT_DIR$/Mahasiswa/materi_home.html" />
+        <option value="$PROJECT_DIR$/Mahasiswa/student-profile.html" />
+        <option value="$PROJECT_DIR$/Mahasiswa/forum_home.html" />
+        <option value="$PROJECT_DIR$/Mahasiswa/forum_kategori.html" />
+        <option value="$PROJECT_DIR$/Mahasiswa/forum_detail.html" />
+        <option value="$PROJECT_DIR$/Dosen/website-instructor-dashboard.html" />
+        <option value="$PROJECT_DIR$/assets/css/style.css" />
+        <option value="$PROJECT_DIR$/forgot_password.html" />
+        <option value="$PROJECT_DIR$/register2.html" />
+        <option value="$PROJECT_DIR$/login.html" />
+        <option value="$PROJECT_DIR$/Mahasiswa/dashboard.html" />
+        <option value="$PROJECT_DIR$/home_quiz.html" />
       </list>
     </option>
   </component>
@@ -135,9 +465,8 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1382" />
+    <option name="x" value="2" />
+    <option name="width" value="1378" />
     <option name="height" value="744" />
   </component>
   <component name="ProjectView">
@@ -155,8 +484,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -193,7 +520,7 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
+              <option name="myItemId" value="assets" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -207,26 +534,40 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="images" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Mahasiswa" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/js" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\Abizy" />
+      <recent name="C:\xampp\htdocs\Abizy\assets\js" />
+      <recent name="C:\xampp\htdocs\Abizy\assets\css" />
+      <recent name="C:\xampp\htdocs\Abizy\assets\images" />
+      <recent name="C:\xampp\htdocs\Abizy\assets" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\Abizy\assets\js" />
+      <recent name="C:\xampp\htdocs\Abizy\assets" />
       <recent name="C:\xampp\htdocs\Abizy\Mahasiswa" />
       <recent name="D:\IMK\abizy\abizy\Mahasiswa" />
       <recent name="D:\IMK\abizy\abizy\Dosen" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\IMK\abizy\abizy\images" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -322,18 +663,21 @@
       <updated>1510029388882</updated>
       <workItem from="1510029390244" duration="1534000" />
       <workItem from="1510294231480" duration="10040000" />
-      <workItem from="1510309934675" duration="1126000" />
+      <workItem from="1510309934675" duration="1252000" />
+      <workItem from="1510326618228" duration="5513000" />
+      <workItem from="1510568921811" duration="593000" />
+      <workItem from="1510582856843" duration="9585000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12700000" />
+    <option name="totallyTimeSpent" value="28517000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="2" y="0" width="1378" height="744" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24743778" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24743025" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -351,6 +695,25 @@
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24743778" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="processedProjectFiles" value="true" />
@@ -373,88 +736,104 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Mahasiswa/forum_home.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2091">
-          <caret line="123" column="6" lean-forward="true" selection-start-line="48" selection-start-column="0" selection-end-line="123" selection-end-column="6" />
+        <state relative-caret-position="697">
+          <caret line="41" column="61" lean-forward="false" selection-start-line="4" selection-start-column="4" selection-end-line="41" selection-end-column="61" />
           <folding>
-            <element signature="e#7171#7177#0" expanded="true" />
-            <element signature="e#8516#8522#0" expanded="true" />
-            <element signature="e#9832#9838#0" expanded="true" />
-            <element signature="e#11961#11967#0" expanded="true" />
-            <element signature="e#13329#13335#0" expanded="true" />
-            <element signature="e#14666#14672#0" expanded="true" />
+            <element signature="e#7176#7182#0" expanded="true" />
+            <element signature="e#8521#8527#0" expanded="true" />
+            <element signature="e#9837#9843#0" expanded="true" />
+            <element signature="e#11966#11972#0" expanded="true" />
+            <element signature="e#13334#13340#0" expanded="true" />
+            <element signature="e#14671#14677#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mahasiswa/dashboard.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1649">
+          <caret line="97" column="76" lean-forward="false" selection-start-line="97" selection-start-column="76" selection-end-line="97" selection-end-column="76" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#li#0;n#ul#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#li#1;n#ul#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#li#2;n#ul#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#13497#13503#0" expanded="true" />
+            <element signature="e#14758#14764#0" expanded="true" />
+            <element signature="e#16018#16024#0" expanded="true" />
+            <element signature="e#17277#17283#0" expanded="true" />
+            <element signature="e#20572#20578#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mahasiswa/student-profile.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2805">
+          <caret line="165" column="34" lean-forward="false" selection-start-line="165" selection-start-column="34" selection-end-line="165" selection-end-column="34" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Mahasiswa/materi_home.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="986">
-          <caret line="58" column="25" lean-forward="false" selection-start-line="58" selection-start-column="25" selection-end-line="58" selection-end-column="25" />
+        <state relative-caret-position="34">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Mahasiswa/student_dashboard.html">
+    <entry file="file://$PROJECT_DIR$/Mahasiswa/quiz.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="1105">
+          <caret line="65" column="47" lean-forward="false" selection-start-line="65" selection-start-column="47" selection-end-line="65" selection-end-column="47" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/images/logoabizy.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/login.html">
+    <entry file="file://$PROJECT_DIR$/Mahasiswa/forum_home.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="38" lean-forward="true" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
+        <state relative-caret-position="697">
+          <caret line="41" column="61" lean-forward="false" selection-start-line="4" selection-start-column="4" selection-end-line="41" selection-end-column="61" />
+          <folding>
+            <element signature="e#7176#7182#0" expanded="true" />
+            <element signature="e#8521#8527#0" expanded="true" />
+            <element signature="e#9837#9843#0" expanded="true" />
+            <element signature="e#11966#11972#0" expanded="true" />
+            <element signature="e#13334#13340#0" expanded="true" />
+            <element signature="e#14671#14677#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Mahasiswa/student_dashboard.html">
+    <entry file="file://$PROJECT_DIR$/Mahasiswa/dashboard.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="318">
-          <caret line="814" column="47" lean-forward="true" selection-start-line="814" selection-start-column="47" selection-end-line="814" selection-end-column="47" />
+        <state relative-caret-position="1649">
+          <caret line="97" column="76" lean-forward="false" selection-start-line="97" selection-start-column="76" selection-end-line="97" selection-end-column="76" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#li#0;n#ul#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#li#1;n#ul#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#li#2;n#ul#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#13497#13503#0" expanded="true" />
+            <element signature="e#14758#14764#0" expanded="true" />
+            <element signature="e#16018#16024#0" expanded="true" />
+            <element signature="e#17277#17283#0" expanded="true" />
+            <element signature="e#20572#20578#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mahasiswa/student-profile.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2805">
+          <caret line="165" column="34" lean-forward="false" selection-start-line="165" selection-start-column="34" selection-end-line="165" selection-end-column="34" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/app/layout.css">
+    <entry file="file://$PROJECT_DIR$/Mahasiswa/materi_home.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1746">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Mahasiswa/forum_thread.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2448">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Mahasiswa/forum_kategori.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="898">
-          <caret line="273" column="4" lean-forward="false" selection-start-line="273" selection-start-column="4" selection-end-line="273" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Mahasiswa/forum_detail.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="239" column="6" lean-forward="false" selection-start-line="239" selection-start-column="6" selection-end-line="249" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/app/app.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-825005">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="34">
+          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -472,20 +851,302 @@
         <state relative-caret-position="2091">
           <caret line="123" column="6" lean-forward="false" selection-start-line="48" selection-start-column="0" selection-end-line="123" selection-end-column="6" />
           <folding>
-            <element signature="e#7171#7177#0" expanded="true" />
-            <element signature="e#8516#8522#0" expanded="true" />
-            <element signature="e#9832#9838#0" expanded="true" />
-            <element signature="e#11961#11967#0" expanded="true" />
-            <element signature="e#13329#13335#0" expanded="true" />
-            <element signature="e#14666#14672#0" expanded="true" />
+            <element signature="e#7176#7182#0" expanded="true" />
+            <element signature="e#8521#8527#0" expanded="true" />
+            <element signature="e#9837#9843#0" expanded="true" />
+            <element signature="e#11966#11972#0" expanded="true" />
+            <element signature="e#13334#13340#0" expanded="true" />
+            <element signature="e#14671#14677#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Mahasiswa/materi_home.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6531">
+        <state relative-caret-position="7633">
           <caret line="449" column="0" lean-forward="true" selection-start-line="449" selection-start-column="0" selection-end-line="449" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mahasiswa/quiz.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1105">
+          <caret line="65" column="47" lean-forward="false" selection-start-line="65" selection-start-column="47" selection-end-line="65" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mahasiswa/forum_home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2091">
+          <caret line="123" column="6" lean-forward="true" selection-start-line="48" selection-start-column="0" selection-end-line="123" selection-end-column="6" />
+          <folding>
+            <element signature="e#7176#7182#0" expanded="true" />
+            <element signature="e#8521#8527#0" expanded="true" />
+            <element signature="e#9837#9843#0" expanded="true" />
+            <element signature="e#11966#11972#0" expanded="true" />
+            <element signature="e#13334#13340#0" expanded="true" />
+            <element signature="e#14671#14677#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mahasiswa/materi_home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="986">
+          <caret line="58" column="25" lean-forward="false" selection-start-line="58" selection-start-column="25" selection-end-line="58" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mahasiswa/dashboard.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#li#0;n#ul#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#li#1;n#ul#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#li#2;n#ul#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#13497#13503#0" expanded="true" />
+            <element signature="e#14758#14764#0" expanded="true" />
+            <element signature="e#16018#16024#0" expanded="true" />
+            <element signature="e#17277#17283#0" expanded="true" />
+            <element signature="e#20572#20578#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="38" lean-forward="true" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/app/layout.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1746">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mahasiswa/forum_thread.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2448">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mahasiswa/quiz.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1105">
+          <caret line="65" column="47" lean-forward="false" selection-start-line="65" selection-start-column="47" selection-end-line="65" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mahasiswa/forum_kategori.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="75" column="10" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="75" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dosen/website-instructor-dashboard.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-816">
+          <caret line="84" column="27" lean-forward="true" selection-start-line="84" selection-start-column="27" selection-end-line="84" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/blue.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="1" lean-forward="false" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mahasiswa/student-profile.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="165" column="34" lean-forward="false" selection-start-line="165" selection-start-column="34" selection-end-line="165" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/app/app.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-901">
+          <caret line="7177" column="1" lean-forward="false" selection-start-line="7177" selection-start-column="1" selection-end-line="7177" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/js/app/all.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/Compressed/ampleadmin-html/ampleadmin/js/custom.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/custom.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/jquery.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/sidebar-nav.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/images/logoabizy.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/jquery.slimscroll.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap/js/tab.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="337">
+          <caret line="3" column="42029" lean-forward="false" selection-start-line="3" selection-start-column="42029" selection-end-line="3" selection-end-column="42029" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/jquery.slimscroll.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mahasiswa/materi_home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="57" lean-forward="false" selection-start-line="21" selection-start-column="57" selection-end-line="21" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/forgot_password.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="41" column="70" lean-forward="false" selection-start-line="41" selection-start-column="70" selection-end-line="41" selection-end-column="70" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/register2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="73" column="57" lean-forward="false" selection-start-line="73" selection-start-column="57" selection-end-line="73" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mahasiswa/dashboard.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="111" column="14" lean-forward="true" selection-start-line="111" selection-start-column="14" selection-end-line="111" selection-end-column="69" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#li#0;n#ul#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#li#1;n#ul#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#li#2;n#ul#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#13497#13503#0" expanded="true" />
+            <element signature="e#14758#14764#0" expanded="true" />
+            <element signature="e#16018#16024#0" expanded="true" />
+            <element signature="e#17277#17283#0" expanded="true" />
+            <element signature="e#20572#20578#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mahasiswa/forum_detail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="279" column="15" lean-forward="true" selection-start-line="276" selection-start-column="2" selection-end-line="279" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home_quiz.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-382">
+          <caret line="496" column="30" lean-forward="false" selection-start-line="496" selection-start-column="30" selection-end-line="496" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mahasiswa/forum_home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="333" column="22" lean-forward="true" selection-start-line="303" selection-start-column="11" selection-end-line="333" selection-end-column="22" />
+          <folding>
+            <element signature="e#7176#7182#0" expanded="true" />
+            <element signature="e#8521#8527#0" expanded="true" />
+            <element signature="e#9837#9843#0" expanded="true" />
+            <element signature="e#11966#11972#0" expanded="true" />
+            <element signature="e#13334#13340#0" expanded="true" />
+            <element signature="e#14671#14677#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="23" lean-forward="true" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
           <folding />
         </state>
       </provider>
