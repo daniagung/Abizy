@@ -2,42 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="11ccfb73-8e22-4c1a-8bbd-eea0ede6743d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/gku.jpg" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/food1-full.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/food1-wide.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/food1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/learning-logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/people/110/woman-10.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/people/110/woman-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/people/110/woman-5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/people/110/woman-6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/people/110/woman-7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/people/110/woman-8.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/people/110/woman-9.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/photodune-4161018-group-of-students-m.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/photodune-6745585-modern-creative-workspace-m.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/place1-full.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/place1-wide.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/place1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/place2-full.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/place2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/place3-full.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/place3-wide.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/place3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/profile-cover.jpg" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/home_quiz.html" afterPath="$PROJECT_DIR$/Mahasiswa/home_quiz.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/people/110/guy-1.jpg" afterPath="$PROJECT_DIR$/assets/images/people/110/guy-1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/people/110/guy-2.jpg" afterPath="$PROJECT_DIR$/assets/images/people/110/guy-2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/people/110/guy-3.jpg" afterPath="$PROJECT_DIR$/assets/images/people/110/guy-3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/people/110/guy-4.jpg" afterPath="$PROJECT_DIR$/assets/images/people/110/guy-4.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/people/110/guy-5.jpg" afterPath="$PROJECT_DIR$/assets/images/people/110/guy-5.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/people/110/guy-6.jpg" afterPath="$PROJECT_DIR$/assets/images/people/110/guy-6.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/people/110/guy-7.jpg" afterPath="$PROJECT_DIR$/assets/images/people/110/guy-7.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/people/110/guy-8.jpg" afterPath="$PROJECT_DIR$/assets/images/people/110/guy-8.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/people/110/guy-9.jpg" afterPath="$PROJECT_DIR$/assets/images/people/110/guy-9.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/people/110/woman-1.jpg" afterPath="$PROJECT_DIR$/assets/images/people/110/woman-1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/people/110/woman-2.jpg" afterPath="$PROJECT_DIR$/assets/images/people/110/woman-2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/people/110/woman-4.jpg" afterPath="$PROJECT_DIR$/assets/images/people/110/woman-4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Mahasiswa/materi_intro.html" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Mahasiswa/website-course.html" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Dosen/website-instructor-billing.html" afterPath="$PROJECT_DIR$/Dosen/website-instructor-billing.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Dosen/website-instructor-course-edit-course.html" afterPath="$PROJECT_DIR$/Dosen/website-instructor-course-edit-course.html" />
@@ -51,19 +17,13 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Dosen/website-instructor-profile.html" afterPath="$PROJECT_DIR$/Dosen/website-instructor-profile.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Dosen/website-instructor-statement.html" afterPath="$PROJECT_DIR$/Dosen/website-instructor-statement.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Mahasiswa/dashboard.html" afterPath="$PROJECT_DIR$/Mahasiswa/dashboard.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Mahasiswa/forum_detail.html" afterPath="$PROJECT_DIR$/Mahasiswa/forum_detail.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Mahasiswa/forum_home.html" afterPath="$PROJECT_DIR$/Mahasiswa/forum_home.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Mahasiswa/forum_kategori.html" afterPath="$PROJECT_DIR$/Mahasiswa/forum_kategori.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Mahasiswa/forum_thread.html" afterPath="$PROJECT_DIR$/Mahasiswa/forum_thread.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Mahasiswa/forums_topic.html" afterPath="$PROJECT_DIR$/Mahasiswa/forums_topic.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Mahasiswa/materi_home.html" afterPath="$PROJECT_DIR$/Mahasiswa/materi_home.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Mahasiswa/quiz.html" afterPath="$PROJECT_DIR$/Mahasiswa/quiz.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Mahasiswa/student-profile.html" afterPath="$PROJECT_DIR$/Mahasiswa/student-profile.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Mahasiswa/student_billing.html" afterPath="$PROJECT_DIR$/Mahasiswa/student_billing.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Mahasiswa/student_courses.html" afterPath="$PROJECT_DIR$/Mahasiswa/student_courses.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Mahasiswa/student_messages.html" afterPath="$PROJECT_DIR$/Mahasiswa/student_messages.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Mahasiswa/take-course.html" afterPath="$PROJECT_DIR$/Mahasiswa/take-course.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Mahasiswa/website-course.html" afterPath="$PROJECT_DIR$/Mahasiswa/website-course.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pricing.html" afterPath="$PROJECT_DIR$/pricing.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/survey.html" afterPath="$PROJECT_DIR$/survey.html" />
@@ -71,6 +31,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/website-blog-post.html" afterPath="$PROJECT_DIR$/website-blog-post.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/website-blog.html" afterPath="$PROJECT_DIR$/website-blog.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/website-contact.html" afterPath="$PROJECT_DIR$/website-contact.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mahasiswa/take-course.html" afterPath="$PROJECT_DIR$/Mahasiswa/materiku.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -79,35 +40,21 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="dashboard.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Mahasiswa/dashboard.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="424" column="0" lean-forward="true" selection-start-line="424" selection-start-column="0" selection-end-line="424" selection-end-column="0" />
+            <state relative-caret-position="185">
+              <caret line="105" column="21" lean-forward="false" selection-start-line="105" selection-start-column="21" selection-end-line="105" selection-end-column="31" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#li#0;n#ul#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#li#1;n#ul#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#li#2;n#ul#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#12599#12605#0" expanded="true" />
-                <element signature="e#13860#13866#0" expanded="true" />
-                <element signature="e#15120#15126#0" expanded="true" />
-                <element signature="e#16379#16385#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="materi_home.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Mahasiswa/materi_home.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="65">
-              <caret line="123" column="59" lean-forward="false" selection-start-line="123" selection-start-column="59" selection-end-line="123" selection-end-column="59" />
-              <folding>
-                <marker date="1510635846077" expanded="false" signature="16899:16906" ph="«" />
-                <marker date="1510635846077" expanded="false" signature="17076:17083" ph="»" />
+                <element signature="e#12590#12596#0" expanded="true" />
+                <element signature="e#13851#13857#0" expanded="true" />
+                <element signature="e#15111#15117#0" expanded="true" />
+                <element signature="e#16370#16376#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -116,7 +63,7 @@
       <file leaf-file-name="quiz.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Mahasiswa/quiz.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
+            <state relative-caret-position="1598">
               <caret line="94" column="23" lean-forward="false" selection-start-line="94" selection-start-column="23" selection-end-line="94" selection-end-column="23" />
               <folding />
             </state>
@@ -126,8 +73,8 @@
       <file leaf-file-name="forum_home.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Mahasiswa/forum_home.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="334" column="18" lean-forward="false" selection-start-line="304" selection-start-column="12" selection-end-line="334" selection-end-column="18" />
+            <state relative-caret-position="185">
+              <caret line="112" column="5" lean-forward="false" selection-start-line="112" selection-start-column="5" selection-end-line="112" selection-end-column="62" />
               <folding>
                 <element signature="e#7167#7173#0" expanded="true" />
                 <element signature="e#8512#8518#0" expanded="true" />
@@ -140,35 +87,53 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="website-instructor-billing.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Dosen/website-instructor-billing.html">
+      <file leaf-file-name="home_quiz.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Mahasiswa/home_quiz.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="10530">
-              <caret line="674" column="23" lean-forward="false" selection-start-line="674" selection-start-column="23" selection-end-line="674" selection-end-column="23" />
+            <state relative-caret-position="417">
+              <caret line="140" column="10" lean-forward="false" selection-start-line="82" selection-start-column="0" selection-end-line="140" selection-end-column="10" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="home_quiz.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Mahasiswa/home_quiz.html">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="416">
-              <caret line="94" column="50" lean-forward="false" selection-start-line="94" selection-start-column="50" selection-end-line="94" selection-end-column="50" />
+            <state relative-caret-position="176">
+              <caret line="398" column="32" lean-forward="false" selection-start-line="398" selection-start-column="27" selection-end-line="398" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="materi_intro.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Mahasiswa/materi_intro.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="185">
+              <caret line="81" column="51" lean-forward="false" selection-start-line="81" selection-start-column="48" selection-end-line="81" selection-end-column="51" />
               <folding>
-                <marker date="1510635105058" expanded="false" signature="15027:15034" ph="«" />
-                <marker date="1510635105058" expanded="false" signature="15204:15211" ph="»" />
-                <marker date="1510635105058" expanded="false" signature="17152:17158" ph="©" />
+                <element signature="e#9649#9655#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.html">
+      <file leaf-file-name="materiku.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Mahasiswa/materiku.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="130" column="31" lean-forward="false" selection-start-line="130" selection-start-column="31" selection-end-line="130" selection-end-column="31" />
+            <state relative-caret-position="7395">
+              <caret line="435" column="30" lean-forward="true" selection-start-line="435" selection-start-column="30" selection-end-line="435" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="student-profile.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Mahasiswa/student-profile.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="30" column="79" lean-forward="false" selection-start-line="30" selection-start-column="79" selection-end-line="30" selection-end-column="79" />
               <folding />
             </state>
           </provider>
@@ -185,25 +150,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>word</find>
-      <find>adrian</find>
-      <find>quiz</find>
-      <find>go to</find>
-      <find>pengha</find>
-      <find>Topic:</find>
-      <find>para</find>
-      <find>flot</find>
-      <find>student</find>
-      <find>dani</find>
-      <find>don'</find>
-      <find>java</find>
-      <find>login-register.jpg</find>
-      <find>lock</find>
-      <find>Good</find>
-      <find>logo</find>
-      <find>catego</find>
-      <find>index</find>
-      <find>img</find>
       <find>../js/app/app.js</find>
       <find>&lt;footer class=&quot;footer&quot;&gt;    &lt;strong&gt;ABIZY&lt;/strong&gt; Developed By Dani Agung &amp;copy; Copyright 2017&lt;/footer&gt;</find>
       <find>../js/vendor/all.js</find>
@@ -215,6 +161,25 @@
       <find>Super Easy Online Payments with Stripe</find>
       <find>fa-</find>
       <find>your</find>
+      <find>eature</find>
+      <find>corpo</find>
+      <find>github</find>
+      <find>blue</find>
+      <find>an</find>
+      <find>and</find>
+      <find>test</find>
+      <find>Testi</find>
+      <find>Cour</find>
+      <find>dokume</find>
+      <find>dani</find>
+      <find>active</find>
+      <find>learni</find>
+      <find>adr</find>
+      <find>mulai</find>
+      <find>forum</find>
+      <find>doku</find>
+      <find>mate</find>
+      <find>btn</find>
     </findStrings>
     <replaceStrings>
       <replace>lalu</replace>
@@ -258,6 +223,10 @@
         <option value="$PROJECT_DIR$/Mahasiswa/quiz.html" />
         <option value="$PROJECT_DIR$/Mahasiswa/dashboard.html" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/Mahasiswa/website-course.html" />
+        <option value="$PROJECT_DIR$/Mahasiswa/take-course.html" />
+        <option value="$PROJECT_DIR$/Mahasiswa/materi_intro.html" />
+        <option value="$PROJECT_DIR$/Mahasiswa/materiku.html" />
       </list>
     </option>
   </component>
@@ -268,7 +237,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="2" />
     <option name="width" value="1378" />
     <option name="height" value="744" />
@@ -288,86 +257,29 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Abizy" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Abizy" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Abizy" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Abizy" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Mahasiswa" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Abizy" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Abizy" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Abizy" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Abizy" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Abizy" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Abizy" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
+          <expand>
+            <path>
+              <item name="Abizy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Abizy" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="Abizy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Abizy" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Dosen" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="Abizy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Abizy" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Mahasiswa" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -405,6 +317,14 @@
     </option>
   </component>
   <component name="RunManager">
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+    </configuration>
     <configuration default="true" type="CodeceptionConfigurationType" factoryName="Codeception">
       <PhpTestRunnerSettings />
       <method />
@@ -441,15 +361,6 @@
     </configuration>
     <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
       <PhpTestRunnerSettings />
-      <method />
-    </configuration>
-    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
-      <node-interpreter>project</node-interpreter>
-      <node-options />
-      <gulpfile />
-      <tasks />
-      <arguments />
-      <envs />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
@@ -491,21 +402,20 @@
       <workItem from="1510582856843" duration="12145000" />
       <workItem from="1510627254114" duration="2032000" />
       <workItem from="1510632307782" duration="3916000" />
+      <workItem from="1512359278935" duration="5881000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37025000" />
+    <option name="totallyTimeSpent" value="42906000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="2" y="0" width="1378" height="744" extended-state="0" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24743025" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24670571" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -517,6 +427,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
@@ -528,11 +439,11 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24743778" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24743025" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -540,7 +451,7 @@
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="processedProjectFiles" value="true" />
+    <option name="version" value="1" />
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -550,26 +461,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Mahasiswa/home_quiz.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="8432">
-          <caret line="496" column="30" lean-forward="false" selection-start-line="496" selection-start-column="30" selection-end-line="496" selection-end-column="30" />
-          <folding>
-            <marker date="1510635105058" expanded="false" signature="15027:15034" ph="«" />
-            <marker date="1510635105058" expanded="false" signature="15204:15211" ph="»" />
-            <marker date="1510635105058" expanded="false" signature="17152:17158" ph="©" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Mahasiswa/forum_detail.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4743">
-          <caret line="279" column="15" lean-forward="true" selection-start-line="276" selection-start-column="2" selection-end-line="279" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Mahasiswa/dashboard.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1887">
@@ -578,10 +469,10 @@
             <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#li#0;n#ul#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#li#1;n#ul#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#li#2;n#ul#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#12599#12605#0" expanded="true" />
-            <element signature="e#13860#13866#0" expanded="true" />
-            <element signature="e#15120#15126#0" expanded="true" />
-            <element signature="e#16379#16385#0" expanded="true" />
+            <element signature="e#12590#12596#0" expanded="true" />
+            <element signature="e#13851#13857#0" expanded="true" />
+            <element signature="e#15111#15117#0" expanded="true" />
+            <element signature="e#16370#16376#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -625,10 +516,10 @@
             <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#li#0;n#ul#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#li#1;n#ul#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#li#2;n#ul#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#12599#12605#0" expanded="true" />
-            <element signature="e#13860#13866#0" expanded="true" />
-            <element signature="e#15120#15126#0" expanded="true" />
-            <element signature="e#16379#16385#0" expanded="true" />
+            <element signature="e#12590#12596#0" expanded="true" />
+            <element signature="e#13851#13857#0" expanded="true" />
+            <element signature="e#15111#15117#0" expanded="true" />
+            <element signature="e#16370#16376#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -679,10 +570,10 @@
             <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#li#0;n#ul#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#li#1;n#ul#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#li#2;n#ul#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#12599#12605#0" expanded="true" />
-            <element signature="e#13860#13866#0" expanded="true" />
-            <element signature="e#15120#15126#0" expanded="true" />
-            <element signature="e#16379#16385#0" expanded="true" />
+            <element signature="e#12590#12596#0" expanded="true" />
+            <element signature="e#13851#13857#0" expanded="true" />
+            <element signature="e#15111#15117#0" expanded="true" />
+            <element signature="e#16370#16376#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -770,10 +661,10 @@
             <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#li#0;n#ul#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#li#1;n#ul#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#li#2;n#ul#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#12599#12605#0" expanded="true" />
-            <element signature="e#13860#13866#0" expanded="true" />
-            <element signature="e#15120#15126#0" expanded="true" />
-            <element signature="e#16379#16385#0" expanded="true" />
+            <element signature="e#12590#12596#0" expanded="true" />
+            <element signature="e#13851#13857#0" expanded="true" />
+            <element signature="e#15111#15117#0" expanded="true" />
+            <element signature="e#16370#16376#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -820,14 +711,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Mahasiswa/student-profile.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="165" column="34" lean-forward="false" selection-start-line="165" selection-start-column="34" selection-end-line="165" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/app/app.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-901">
@@ -844,13 +727,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/js/app/all.js" />
-    <entry file="file://$USER_HOME$/Downloads/Compressed/ampleadmin-html/ampleadmin/js/custom.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/Downloads/Compressed/ampleadmin-html/ampleadmin/js/custom.js" />
     <entry file="file://$PROJECT_DIR$/assets/js/custom.js" />
     <entry file="file://$PROJECT_DIR$/assets/js/jquery.min.js">
       <provider selected="true" editor-type-id="text-editor">
@@ -905,7 +782,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4743">
           <caret line="279" column="15" lean-forward="false" selection-start-line="276" selection-start-column="2" selection-end-line="279" selection-end-column="15" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -913,34 +789,45 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="646">
           <caret line="38" column="22" lean-forward="false" selection-start-line="38" selection-start-column="22" selection-end-line="38" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Dosen/website-instructor-billing.html">
+    <entry file="file://$PROJECT_DIR$/Mahasiswa/quiz.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="10530">
-          <caret line="674" column="23" lean-forward="false" selection-start-line="674" selection-start-column="23" selection-end-line="674" selection-end-column="23" />
+        <state relative-caret-position="1598">
+          <caret line="94" column="23" lean-forward="false" selection-start-line="94" selection-start-column="23" selection-end-line="94" selection-end-column="23" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Mahasiswa/home_quiz.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="416">
-          <caret line="94" column="50" lean-forward="false" selection-start-line="94" selection-start-column="50" selection-end-line="94" selection-end-column="50" />
-          <folding>
-            <marker date="1510635105058" expanded="false" signature="15027:15034" ph="«" />
-            <marker date="1510635105058" expanded="false" signature="15204:15211" ph="»" />
-            <marker date="1510635105058" expanded="false" signature="17152:17158" ph="©" />
-          </folding>
+        <state relative-caret-position="417">
+          <caret line="140" column="10" lean-forward="false" selection-start-line="82" selection-start-column="0" selection-end-line="140" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dosen/website-instructor-billing.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="549">
+          <caret line="674" column="23" lean-forward="false" selection-start-line="674" selection-start-column="23" selection-end-line="674" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mahasiswa/materi_home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="447">
+          <caret line="419" column="22" lean-forward="true" selection-start-line="419" selection-start-column="22" selection-end-line="419" selection-end-column="22" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Mahasiswa/forum_home.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="334" column="18" lean-forward="false" selection-start-line="304" selection-start-column="12" selection-end-line="334" selection-end-column="18" />
+        <state relative-caret-position="185">
+          <caret line="112" column="5" lean-forward="false" selection-start-line="112" selection-start-column="5" selection-end-line="112" selection-end-column="62" />
           <folding>
             <element signature="e#7167#7173#0" expanded="true" />
             <element signature="e#8512#8518#0" expanded="true" />
@@ -952,45 +839,52 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Mahasiswa/materi_home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="65">
-          <caret line="123" column="59" lean-forward="false" selection-start-line="123" selection-start-column="59" selection-end-line="123" selection-end-column="59" />
-          <folding>
-            <marker date="1510635846077" expanded="false" signature="16899:16906" ph="«" />
-            <marker date="1510635846077" expanded="false" signature="17076:17083" ph="»" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Mahasiswa/quiz.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="94" column="23" lean-forward="false" selection-start-line="94" selection-start-column="23" selection-end-line="94" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Mahasiswa/dashboard.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="424" column="0" lean-forward="true" selection-start-line="424" selection-start-column="0" selection-end-line="424" selection-end-column="0" />
+        <state relative-caret-position="185">
+          <caret line="105" column="21" lean-forward="false" selection-start-line="105" selection-start-column="21" selection-end-line="105" selection-end-column="31" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#li#0;n#ul#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#li#1;n#ul#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#li#2;n#ul#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#12599#12605#0" expanded="true" />
-            <element signature="e#13860#13866#0" expanded="true" />
-            <element signature="e#15120#15126#0" expanded="true" />
-            <element signature="e#16379#16385#0" expanded="true" />
+            <element signature="e#12590#12596#0" expanded="true" />
+            <element signature="e#13851#13857#0" expanded="true" />
+            <element signature="e#15111#15117#0" expanded="true" />
+            <element signature="e#16370#16376#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mahasiswa/student-profile.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="79" lean-forward="false" selection-start-line="30" selection-start-column="79" selection-end-line="30" selection-end-column="79" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="130" column="31" lean-forward="false" selection-start-line="130" selection-start-column="31" selection-end-line="130" selection-end-column="31" />
+        <state relative-caret-position="176">
+          <caret line="398" column="32" lean-forward="false" selection-start-line="398" selection-start-column="27" selection-end-line="398" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mahasiswa/materi_intro.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="81" column="51" lean-forward="false" selection-start-line="81" selection-start-column="48" selection-end-line="81" selection-end-column="51" />
+          <folding>
+            <element signature="e#9649#9655#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mahasiswa/materiku.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7395">
+          <caret line="435" column="30" lean-forward="true" selection-start-line="435" selection-start-column="30" selection-end-line="435" selection-end-column="30" />
           <folding />
         </state>
       </provider>
